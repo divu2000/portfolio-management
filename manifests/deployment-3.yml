@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: "services-52a4"
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: "services-52a4"
+  template:
+    metadata:
+      labels:
+        app: "services-52a4"
+    spec:
+      containers:
+        - name: "services-52a4"
+          image: "devdiv.azurecr.io/services"
+          ports:
+          - containerPort: 80
