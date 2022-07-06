@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: "services-3f81"
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: "services-3f81"
+  template:
+    metadata:
+      labels:
+        app: "services-3f81"
+    spec:
+      containers:
+        - name: "services-3f81"
+          image: "devdiv.azurecr.io/services"
+          ports:
+          - containerPort: 80
