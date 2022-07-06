@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: "services-f7f4"
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: "services-f7f4"
+  template:
+    metadata:
+      labels:
+        app: "services-f7f4"
+    spec:
+      containers:
+        - name: "services-f7f4"
+          image: "devdiv.azurecr.io/services"
+          ports:
+          - containerPort: 80
