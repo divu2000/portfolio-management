@@ -1,0 +1,17 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+    name: "test-b035"
+    labels:
+        app: "test-b035"
+    annotations:
+        kubernetes.io/ingress.class: addon-http-application-routing
+spec:
+    rules:
+        - host: deployauth-test-b035.6030b51ae8e8402e9482.eastus.aksapp.io
+          http:
+            paths:
+            - path: /
+              backend:
+                serviceName: "test-b035"
+                servicePort: 80
