@@ -64,7 +64,7 @@ namespace CalculateNetworth
             app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "CalculateNetworth v1"));
         
             loggerFactory.AddLog4Net();
-            app.UseHttpsRedirection();
+            // app.UseHttpsRedirection();
 
             app.UseRouting();
 

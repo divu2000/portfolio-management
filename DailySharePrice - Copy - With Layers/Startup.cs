@@ -71,7 +71,7 @@ namespace DailySharePrice
         
             loggerFactory.AddLog4Net();
 
-            app.UseHttpsRedirection();
+            // app.UseHttpsRedirection();
 
             app.UseRouting();
 
