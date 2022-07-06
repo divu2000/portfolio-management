@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: "test-b035"
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: "test-b035"
+  template:
+    metadata:
+      labels:
+        app: "test-b035"
+    spec:
+      containers:
+        - name: "test-b035"
+          image: "depauth.azurecr.io/test"
+          ports:
+          - containerPort: 80
