@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: "services-d3e5"
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: "services-d3e5"
+  template:
+    metadata:
+      labels:
+        app: "services-d3e5"
+    spec:
+      containers:
+        - name: "services-d3e5"
+          image: "authregdevdiv.azurecr.io/services"
+          ports:
+          - containerPort: 80
