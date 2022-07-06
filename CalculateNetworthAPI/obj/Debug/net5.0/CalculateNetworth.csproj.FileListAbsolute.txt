@@ -1,0 +1,507 @@
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\appsettings.Development.json
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\appsettings.json
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\CalculateNetworth.exe
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\CalculateNetworth.deps.json
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\CalculateNetworth.runtimeconfig.json
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\CalculateNetworth.runtimeconfig.dev.json
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\CalculateNetworth.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\ref\CalculateNetworth.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\CalculateNetworth.pdb
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Humanizer.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.csproj.AssemblyReference.cache
+C:\Portfolio Management\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio Management\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.AssemblyInfoInputs.cache
+C:\Portfolio Management\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.AssemblyInfo.cs
+C:\Portfolio Management\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.csproj.CoreCompileInputs.cache
+C:\Portfolio Management\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.MvcApplicationPartsAssemblyInfo.cs
+C:\Portfolio Management\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.MvcApplicationPartsAssemblyInfo.cache
+C:\Portfolio Management\CalculateNetworth\obj\Debug\net5.0\staticwebassets\CalculateNetworth.StaticWebAssets.Manifest.cache
+C:\Portfolio Management\CalculateNetworth\obj\Debug\net5.0\staticwebassets\CalculateNetworth.StaticWebAssets.xml
+C:\Portfolio Management\CalculateNetworth\obj\Debug\net5.0\scopedcss\bundle\CalculateNetworth.styles.css
+C:\Portfolio Management\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.RazorTargetAssemblyInfo.cache
+C:\Portfolio Management\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.csproj.CopyComplete
+C:\Portfolio Management\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.dll
+C:\Portfolio Management\CalculateNetworth\obj\Debug\net5.0\ref\CalculateNetworth.dll
+C:\Portfolio Management\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.pdb
+C:\Portfolio Management\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.genruntimeconfig.cache
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\log4net.dll
+C:\Portfolio Management\CalculateNetworth\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\appsettings.Development.json
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\appsettings.json
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\CalculateNetworth.exe
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\CalculateNetworth.deps.json
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\CalculateNetworth.runtimeconfig.json
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\CalculateNetworth.runtimeconfig.dev.json
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\CalculateNetworth.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\ref\CalculateNetworth.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\CalculateNetworth.pdb
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Humanizer.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\log4net.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Portfolio Management\CalculateNetworth - Copy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\CalculateNetworth - Copy\obj\Debug\net5.0\CalculateNetworth.csproj.AssemblyReference.cache
+C:\Portfolio Management\CalculateNetworth - Copy\obj\Debug\net5.0\CalculateNetworth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio Management\CalculateNetworth - Copy\obj\Debug\net5.0\CalculateNetworth.AssemblyInfoInputs.cache
+C:\Portfolio Management\CalculateNetworth - Copy\obj\Debug\net5.0\CalculateNetworth.AssemblyInfo.cs
+C:\Portfolio Management\CalculateNetworth - Copy\obj\Debug\net5.0\CalculateNetworth.csproj.CoreCompileInputs.cache
+C:\Portfolio Management\CalculateNetworth - Copy\obj\Debug\net5.0\CalculateNetworth.MvcApplicationPartsAssemblyInfo.cs
+C:\Portfolio Management\CalculateNetworth - Copy\obj\Debug\net5.0\CalculateNetworth.MvcApplicationPartsAssemblyInfo.cache
+C:\Portfolio Management\CalculateNetworth - Copy\obj\Debug\net5.0\staticwebassets\CalculateNetworth.StaticWebAssets.Manifest.cache
+C:\Portfolio Management\CalculateNetworth - Copy\obj\Debug\net5.0\staticwebassets\CalculateNetworth.StaticWebAssets.xml
+C:\Portfolio Management\CalculateNetworth - Copy\obj\Debug\net5.0\scopedcss\bundle\CalculateNetworth.styles.css
+C:\Portfolio Management\CalculateNetworth - Copy\obj\Debug\net5.0\CalculateNetworth.RazorTargetAssemblyInfo.cache
+C:\Portfolio Management\CalculateNetworth - Copy\obj\Debug\net5.0\CalculateNetworth.csproj.CopyComplete
+C:\Portfolio Management\CalculateNetworth - Copy\obj\Debug\net5.0\CalculateNetworth.dll
+C:\Portfolio Management\CalculateNetworth - Copy\obj\Debug\net5.0\ref\CalculateNetworth.dll
+C:\Portfolio Management\CalculateNetworth - Copy\obj\Debug\net5.0\CalculateNetworth.pdb
+C:\Portfolio Management\CalculateNetworth - Copy\obj\Debug\net5.0\CalculateNetworth.genruntimeconfig.cache
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\appsettings.Development.json
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\appsettings.json
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\CalculateNetworth.exe
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\CalculateNetworth.deps.json
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\CalculateNetworth.runtimeconfig.json
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\CalculateNetworth.runtimeconfig.dev.json
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\CalculateNetworth.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\ref\CalculateNetworth.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\CalculateNetworth.pdb
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Humanizer.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\log4net.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\obj\Debug\net5.0\CalculateNetworth.csproj.AssemblyReference.cache
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\obj\Debug\net5.0\CalculateNetworth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\obj\Debug\net5.0\CalculateNetworth.AssemblyInfoInputs.cache
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\obj\Debug\net5.0\CalculateNetworth.AssemblyInfo.cs
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\obj\Debug\net5.0\CalculateNetworth.csproj.CoreCompileInputs.cache
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\obj\Debug\net5.0\CalculateNetworth.MvcApplicationPartsAssemblyInfo.cs
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\obj\Debug\net5.0\CalculateNetworth.MvcApplicationPartsAssemblyInfo.cache
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\obj\Debug\net5.0\staticwebassets\CalculateNetworth.StaticWebAssets.Manifest.cache
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\obj\Debug\net5.0\staticwebassets\CalculateNetworth.StaticWebAssets.xml
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\obj\Debug\net5.0\scopedcss\bundle\CalculateNetworth.styles.css
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\obj\Debug\net5.0\CalculateNetworth.RazorTargetAssemblyInfo.cache
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\obj\Debug\net5.0\CalculateNetworth.csproj.CopyComplete
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\obj\Debug\net5.0\CalculateNetworth.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\obj\Debug\net5.0\ref\CalculateNetworth.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\obj\Debug\net5.0\CalculateNetworth.pdb
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers\obj\Debug\net5.0\CalculateNetworth.genruntimeconfig.cache
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\appsettings.Development.json
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\appsettings.json
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\CalculateNetworth.exe
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\CalculateNetworth.deps.json
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\CalculateNetworth.runtimeconfig.json
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\CalculateNetworth.runtimeconfig.dev.json
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\CalculateNetworth.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\ref\CalculateNetworth.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\CalculateNetworth.pdb
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Humanizer.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\log4net.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\obj\Debug\net5.0\CalculateNetworth.csproj.AssemblyReference.cache
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\obj\Debug\net5.0\CalculateNetworth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\obj\Debug\net5.0\CalculateNetworth.AssemblyInfoInputs.cache
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\obj\Debug\net5.0\CalculateNetworth.AssemblyInfo.cs
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\obj\Debug\net5.0\CalculateNetworth.csproj.CoreCompileInputs.cache
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\obj\Debug\net5.0\CalculateNetworth.MvcApplicationPartsAssemblyInfo.cs
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\obj\Debug\net5.0\CalculateNetworth.MvcApplicationPartsAssemblyInfo.cache
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\obj\Debug\net5.0\staticwebassets\CalculateNetworth.StaticWebAssets.Manifest.cache
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\obj\Debug\net5.0\staticwebassets\CalculateNetworth.StaticWebAssets.xml
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\obj\Debug\net5.0\scopedcss\bundle\CalculateNetworth.styles.css
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\obj\Debug\net5.0\CalculateNetworth.RazorTargetAssemblyInfo.cache
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\obj\Debug\net5.0\CalculateNetworth.csproj.CopyComplete
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\obj\Debug\net5.0\CalculateNetworth.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\obj\Debug\net5.0\ref\CalculateNetworth.dll
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\obj\Debug\net5.0\CalculateNetworth.pdb
+C:\Portfolio Management\CalculateNetworth - Copy - WithLayers - WithMF\obj\Debug\net5.0\CalculateNetworth.genruntimeconfig.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\appsettings.Development.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\appsettings.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\CalculateNetworth.exe
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\CalculateNetworth.deps.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\CalculateNetworth.runtimeconfig.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\CalculateNetworth.runtimeconfig.dev.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\CalculateNetworth.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\ref\CalculateNetworth.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\CalculateNetworth.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Humanizer.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\log4net.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.csproj.AssemblyReference.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.AssemblyInfoInputs.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.AssemblyInfo.cs
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.csproj.CoreCompileInputs.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.MvcApplicationPartsAssemblyInfo.cs
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.MvcApplicationPartsAssemblyInfo.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\obj\Debug\net5.0\staticwebassets\CalculateNetworth.StaticWebAssets.Manifest.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\obj\Debug\net5.0\staticwebassets\CalculateNetworth.StaticWebAssets.xml
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\obj\Debug\net5.0\scopedcss\bundle\CalculateNetworth.styles.css
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.RazorTargetAssemblyInfo.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.csproj.CopyComplete
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\obj\Debug\net5.0\ref\CalculateNetworth.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\obj\Debug\net5.0\CalculateNetworth.genruntimeconfig.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth\bin\Debug\net5.0\log4net.config
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\log4net.config
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\appsettings.Development.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\appsettings.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\CalculateNetworth.exe
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\CalculateNetworth.deps.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\CalculateNetworth.runtimeconfig.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\CalculateNetworth.runtimeconfig.dev.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\CalculateNetworth.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\ref\CalculateNetworth.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\CalculateNetworth.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Humanizer.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\log4net.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.csproj.AssemblyReference.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.AssemblyInfoInputs.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.AssemblyInfo.cs
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.csproj.CoreCompileInputs.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.MvcApplicationPartsAssemblyInfo.cs
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.MvcApplicationPartsAssemblyInfo.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\obj\Debug\net5.0\staticwebassets\CalculateNetworth.StaticWebAssets.Manifest.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\obj\Debug\net5.0\staticwebassets\CalculateNetworth.StaticWebAssets.xml
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\obj\Debug\net5.0\scopedcss\bundle\CalculateNetworth.styles.css
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.RazorTargetAssemblyInfo.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.csproj.CopyComplete
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\obj\Debug\net5.0\ref\CalculateNetworth.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.genruntimeconfig.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\log4net.config
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\appsettings.Development.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\appsettings.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\CalculateNetworth.exe
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\CalculateNetworth.deps.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\CalculateNetworth.runtimeconfig.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\CalculateNetworth.runtimeconfig.dev.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\CalculateNetworth.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\ref\CalculateNetworth.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\CalculateNetworth.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Humanizer.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\log4net.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.csproj.AssemblyReference.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.AssemblyInfoInputs.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.AssemblyInfo.cs
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.csproj.CoreCompileInputs.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.MvcApplicationPartsAssemblyInfo.cs
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.MvcApplicationPartsAssemblyInfo.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\obj\Debug\net5.0\staticwebassets\CalculateNetworth.StaticWebAssets.Manifest.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\obj\Debug\net5.0\staticwebassets\CalculateNetworth.StaticWebAssets.xml
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\obj\Debug\net5.0\scopedcss\bundle\CalculateNetworth.styles.css
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.RazorTargetAssemblyInfo.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.csproj.CopyComplete
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\obj\Debug\net5.0\ref\CalculateNetworth.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworth - Final\obj\Debug\net5.0\CalculateNetworth.genruntimeconfig.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\log4net.config
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\appsettings.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\CalculateNetworth.exe
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\CalculateNetworth.deps.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\CalculateNetworth.runtimeconfig.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\CalculateNetworth.runtimeconfig.dev.json
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\CalculateNetworth.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\ref\CalculateNetworth.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\CalculateNetworth.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\log4net.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\obj\Debug\net5.0\CalculateNetworth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\obj\Debug\net5.0\CalculateNetworth.AssemblyInfoInputs.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\obj\Debug\net5.0\CalculateNetworth.AssemblyInfo.cs
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\obj\Debug\net5.0\CalculateNetworth.csproj.CoreCompileInputs.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\obj\Debug\net5.0\CalculateNetworth.MvcApplicationPartsAssemblyInfo.cs
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\obj\Debug\net5.0\CalculateNetworth.MvcApplicationPartsAssemblyInfo.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\obj\Debug\net5.0\staticwebassets\CalculateNetworth.StaticWebAssets.Manifest.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\obj\Debug\net5.0\staticwebassets\CalculateNetworth.StaticWebAssets.xml
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\obj\Debug\net5.0\scopedcss\bundle\CalculateNetworth.styles.css
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\obj\Debug\net5.0\CalculateNetworth.RazorTargetAssemblyInfo.cache
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\obj\Debug\net5.0\CalculateNetworth.csproj.CopyComplete
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\obj\Debug\net5.0\CalculateNetworth.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\obj\Debug\net5.0\ref\CalculateNetworth.dll
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\obj\Debug\net5.0\CalculateNetworth.pdb
+C:\Portfolio Management\Portfolio Management - CurrentFinal\New folder\New folder\CalculateNetworthAPI\obj\Debug\net5.0\CalculateNetworth.genruntimeconfig.cache

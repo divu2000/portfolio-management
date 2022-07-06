@@ -1,0 +1,186 @@
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\appsettings.Development.json
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\appsettings.json
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\DailySharePrice.exe
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\DailySharePrice.deps.json
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\DailySharePrice.runtimeconfig.json
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\DailySharePrice.runtimeconfig.dev.json
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\DailySharePrice.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\ref\DailySharePrice.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\DailySharePrice.pdb
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Humanizer.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Portfolio Management\DailySharePrice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\DailySharePrice\obj\Debug\net5.0\DailySharePrice.csproj.AssemblyReference.cache
+C:\Portfolio Management\DailySharePrice\obj\Debug\net5.0\DailySharePrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio Management\DailySharePrice\obj\Debug\net5.0\DailySharePrice.AssemblyInfoInputs.cache
+C:\Portfolio Management\DailySharePrice\obj\Debug\net5.0\DailySharePrice.AssemblyInfo.cs
+C:\Portfolio Management\DailySharePrice\obj\Debug\net5.0\DailySharePrice.csproj.CoreCompileInputs.cache
+C:\Portfolio Management\DailySharePrice\obj\Debug\net5.0\DailySharePrice.MvcApplicationPartsAssemblyInfo.cs
+C:\Portfolio Management\DailySharePrice\obj\Debug\net5.0\DailySharePrice.MvcApplicationPartsAssemblyInfo.cache
+C:\Portfolio Management\DailySharePrice\obj\Debug\net5.0\staticwebassets\DailySharePrice.StaticWebAssets.Manifest.cache
+C:\Portfolio Management\DailySharePrice\obj\Debug\net5.0\staticwebassets\DailySharePrice.StaticWebAssets.xml
+C:\Portfolio Management\DailySharePrice\obj\Debug\net5.0\scopedcss\bundle\DailySharePrice.styles.css
+C:\Portfolio Management\DailySharePrice\obj\Debug\net5.0\DailySharePrice.RazorTargetAssemblyInfo.cache
+C:\Portfolio Management\DailySharePrice\obj\Debug\net5.0\DailySharePrice.csproj.CopyComplete
+C:\Portfolio Management\DailySharePrice\obj\Debug\net5.0\DailySharePrice.dll
+C:\Portfolio Management\DailySharePrice\obj\Debug\net5.0\ref\DailySharePrice.dll
+C:\Portfolio Management\DailySharePrice\obj\Debug\net5.0\DailySharePrice.pdb
+C:\Portfolio Management\DailySharePrice\obj\Debug\net5.0\DailySharePrice.genruntimeconfig.cache
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\appsettings.Development.json
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\appsettings.json
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\DailySharePrice.exe
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\DailySharePrice.deps.json
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\DailySharePrice.runtimeconfig.json
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\DailySharePrice.runtimeconfig.dev.json
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\DailySharePrice.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\ref\DailySharePrice.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\DailySharePrice.pdb
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Humanizer.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Portfolio Management\DailySharePrice - Copy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\DailySharePrice - Copy\obj\Debug\net5.0\DailySharePrice.csproj.AssemblyReference.cache
+C:\Portfolio Management\DailySharePrice - Copy\obj\Debug\net5.0\DailySharePrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio Management\DailySharePrice - Copy\obj\Debug\net5.0\DailySharePrice.AssemblyInfoInputs.cache
+C:\Portfolio Management\DailySharePrice - Copy\obj\Debug\net5.0\DailySharePrice.AssemblyInfo.cs
+C:\Portfolio Management\DailySharePrice - Copy\obj\Debug\net5.0\DailySharePrice.csproj.CoreCompileInputs.cache
+C:\Portfolio Management\DailySharePrice - Copy\obj\Debug\net5.0\DailySharePrice.MvcApplicationPartsAssemblyInfo.cs
+C:\Portfolio Management\DailySharePrice - Copy\obj\Debug\net5.0\DailySharePrice.MvcApplicationPartsAssemblyInfo.cache
+C:\Portfolio Management\DailySharePrice - Copy\obj\Debug\net5.0\staticwebassets\DailySharePrice.StaticWebAssets.Manifest.cache
+C:\Portfolio Management\DailySharePrice - Copy\obj\Debug\net5.0\staticwebassets\DailySharePrice.StaticWebAssets.xml
+C:\Portfolio Management\DailySharePrice - Copy\obj\Debug\net5.0\scopedcss\bundle\DailySharePrice.styles.css
+C:\Portfolio Management\DailySharePrice - Copy\obj\Debug\net5.0\DailySharePrice.RazorTargetAssemblyInfo.cache
+C:\Portfolio Management\DailySharePrice - Copy\obj\Debug\net5.0\DailySharePrice.csproj.CopyComplete
+C:\Portfolio Management\DailySharePrice - Copy\obj\Debug\net5.0\DailySharePrice.dll
+C:\Portfolio Management\DailySharePrice - Copy\obj\Debug\net5.0\ref\DailySharePrice.dll
+C:\Portfolio Management\DailySharePrice - Copy\obj\Debug\net5.0\DailySharePrice.pdb
+C:\Portfolio Management\DailySharePrice - Copy\obj\Debug\net5.0\DailySharePrice.genruntimeconfig.cache
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\appsettings.Development.json
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\appsettings.json
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\DailySharePrice.exe
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\DailySharePrice.deps.json
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\DailySharePrice.runtimeconfig.json
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\DailySharePrice.runtimeconfig.dev.json
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\DailySharePrice.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\ref\DailySharePrice.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\DailySharePrice.pdb
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Humanizer.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\obj\Debug\net5.0\DailySharePrice.csproj.AssemblyReference.cache
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\obj\Debug\net5.0\DailySharePrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\obj\Debug\net5.0\DailySharePrice.AssemblyInfoInputs.cache
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\obj\Debug\net5.0\DailySharePrice.AssemblyInfo.cs
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\obj\Debug\net5.0\DailySharePrice.csproj.CoreCompileInputs.cache
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\obj\Debug\net5.0\DailySharePrice.MvcApplicationPartsAssemblyInfo.cs
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\obj\Debug\net5.0\DailySharePrice.MvcApplicationPartsAssemblyInfo.cache
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\obj\Debug\net5.0\staticwebassets\DailySharePrice.StaticWebAssets.Manifest.cache
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\obj\Debug\net5.0\staticwebassets\DailySharePrice.StaticWebAssets.xml
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\obj\Debug\net5.0\scopedcss\bundle\DailySharePrice.styles.css
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\obj\Debug\net5.0\DailySharePrice.RazorTargetAssemblyInfo.cache
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\obj\Debug\net5.0\DailySharePrice.csproj.CopyComplete
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\obj\Debug\net5.0\DailySharePrice.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\obj\Debug\net5.0\ref\DailySharePrice.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\obj\Debug\net5.0\DailySharePrice.pdb
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\obj\Debug\net5.0\DailySharePrice.genruntimeconfig.cache
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\log4net.config
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\log4net.dll
+C:\Portfolio Management\DailySharePrice - Copy - With Layers\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll

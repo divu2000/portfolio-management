@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateNetworth", "CalculateNetworth.csproj", "{CC70C32A-515B-45BA-BD02-CCB827073AE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateNetworth1.Test", "..\CalculateNetworth1.Test\CalculateNetworth1.Test.csproj", "{025D833D-1365-42DC-920B-F33E387B7FC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC70C32A-515B-45BA-BD02-CCB827073AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC70C32A-515B-45BA-BD02-CCB827073AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC70C32A-515B-45BA-BD02-CCB827073AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC70C32A-515B-45BA-BD02-CCB827073AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025D833D-1365-42DC-920B-F33E387B7FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025D833D-1365-42DC-920B-F33E387B7FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025D833D-1365-42DC-920B-F33E387B7FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025D833D-1365-42DC-920B-F33E387B7FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90389166-D1B6-4B8A-88C7-1E4D77AF63CE}
+	EndGlobalSection
+EndGlobal
